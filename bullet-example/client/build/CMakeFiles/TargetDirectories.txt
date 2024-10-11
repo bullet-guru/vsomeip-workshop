@@ -1,0 +1,3 @@
+/home/hazem/workshop/01_someip/vsomeip/example/client/build/CMakeFiles/client.dir
+/home/hazem/workshop/01_someip/vsomeip/example/client/build/CMakeFiles/edit_cache.dir
+/home/hazem/workshop/01_someip/vsomeip/example/client/build/CMakeFiles/rebuild_cache.dir
