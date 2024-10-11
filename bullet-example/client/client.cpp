@@ -13,7 +13,7 @@
 #define SAMPLE_METHOD_ID     0x0421
 
 
-std::string username = "Hazem";
+std::string username = "Bullet Student";
 
 std::shared_ptr< vsomeip::application > app;
 std::mutex mutex;
